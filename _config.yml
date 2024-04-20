@@ -1,5 +1,14 @@
 title: Abdoullatuf Maoulida
-logo: /assets/img/img_cv_abdoullatuf-removebg.jpg
-#description: Data Scientist
-show_downloads: true
+logo: /assets/img/img_cv_abdoullatuf.png
+description: Data Scientist | Enseignant de mathématiques dans le second degré
+author:
+  name: Abdoullatuf Maoulida
+  bio: Data Scientist passionné par l'analyse des données et l'apprentissage automatique. Enseignant de mathématiques dans le secondaire.
+  location: Paris, France
+  email: a.ellatuf@gmail.com
+  
+social:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abdoullatuf-maoulida/
 theme: jekyll-theme-minimal
+
