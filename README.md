@@ -7,8 +7,6 @@
 - **Lieu :** Paris, France
 - **Type :** Formation
 
-![OpenClassrooms](lien_vers_image_openclassrooms.png)
-
 **Responsabilités :**
 - Définition de la stratégie d'élaboration d'un modèle d'apprentissage
 - Nettoyage et préparation des données
@@ -28,14 +26,11 @@
 - **Lieu :** Ensuès-La-Redonne, France
 - **Type :** Intérim
 
-![GEODIS](lien_vers_image_geodis.png)
 
 ### Caissier-Station-service chez TotalEnergie
 - **Période :** 02/2021 - 02/2022
 - **Lieu :** Epinay-Sur-Orge, France
 - **Type :** CDI
-
-![TotalEnergie](lien_vers_image_totalenergie.png)
 
 ### Statisticien chez Safran Aircraft Engines
 - **Période :** 05/2016 - 10/2016
@@ -68,13 +63,10 @@
 - **Lieu :** Champs-Sur-Marne, France
 - **Spécialité :** Probabilité et statistiques des nouvelles données
 
-![Université Paris Est Marne-La-Vallée](lien_vers_image_upem.png)
 
 ### Master 1, Mathématiques à l'Université Paris Est Créteil
 - **Période :** 09/2014 - 06/2015
 - **Lieu :** Créteil, France
-
-![Université Paris Est Créteil](lien_vers_image_upec.png)
 
 ## Projets
 
@@ -84,8 +76,11 @@
 
 ![Segmentation des clients](lien_vers_image_segmentation.png)
 
-### Classification automatique des biens de consommation
-- **Titre :** Classification automatique des biens de consommation
-- **Description :** En tant que Data Scientist chez "Place de marché", j'ai dirigé un projet vis
+### Développement d'un Outil de Scoring Crédit pour "Prêt à Dépenser"
+- **Titre :** Développement d'un Outil de Scoring Crédit
+- **Description :** En qualité de Data Scientist chez "Prêt à Dépenser", j'ai dirigé un projet crucial visant à mettre en place un outil de "scoring crédit" pour évaluer la probabilité de remboursement des clients. Notre objectif était de développer un algorithme de classification en utilisant diverses sources de données, telles que les comportements des clients et les données provenant d'autres institutions financières. En réponse à une demande croissante de transparence de la part des clients, nous avons également créé un dashboard interactif. Ce dashboard permet aux chargés de relation client d'expliquer de manière transparente les décisions d'octroi de crédit tout en offrant aux clients la possibilité d'accéder facilement à leurs informations personnelles.
+
+![Dashboard](/assets/img/presentation_dashboard.png)
+
 
 
