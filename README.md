@@ -40,8 +40,23 @@
 **Responsabilités :**
 - Mise au point de méthodes d'analyses statistiques multivariées des données pour impression 3D MIM
 
+## Formations
 
-### Formations
-Ingénieur IA, Data Scientist, Mathématiques
+### RNCP 7, Mathématique et informatique
+- **Période :** 09/2022 - 02/2024
+- **Établissement :** Openclassrooms
+- **Lieu :** Paris
+- **Spécialité :** Data Scientist
+
+### Master 2, Mathématiques et applications
+- **Période :** 09/2015 - 06/2016
+- **Université :** Université Paris Est Marne-La-Vallée
+- **Lieu :** Champs-Sur-Marne
+- **Spécialité :** Probabilité et statistiques des nouvelles données
+
+### Master 1, Mathématiques
+- **Période :** 09/2014 - 06/2015
+- **Université :** Université Paris Est Créteil
+- **Lieu :** Créteil
 
 ### Projets
