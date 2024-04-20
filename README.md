@@ -37,7 +37,7 @@
 - **Lieu :** Corbeil-Essonnes, France
 - **Type :** Stage
 
-![Safran Aircraft Engines](lien_vers_image_safran.png)
+![Stage](/assets/img/stage_presentation.png)
 
 **Responsabilités :**
 - Développement de méthodes d'analyses statistiques multivariées pour l'impression 3D MIM
