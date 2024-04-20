@@ -1,4 +1,4 @@
-## Expérience Professionnelle
+## Expériences
 
 ### Data Scientist
 - **Période :** 09/2022 - 01/2024
