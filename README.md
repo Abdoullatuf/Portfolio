@@ -15,8 +15,8 @@
 
 ### Professeur De Mathématiques
 - **Période :** 09/2016 - Actuel
-- **Établissements :** Ac-Versailles, Ac-Créteil
-- **Lieu :** Melun
+- **Établissements :** Académie de Versailles dans le publique et Académie de Créteil dans l'enseignement Privé sous contrat
+- **Lieu :** Melun (Actuellement)
 - **Type :** CDD
 
 ### Contrôleur de stock
