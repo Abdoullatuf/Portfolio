@@ -79,19 +79,20 @@ De plus, j'ai proposé une stratégie de maintenance des segments, basée sur un
 
 Ce projet a démontré ma capacité à combiner des compétences en analyse de données avec une compréhension approfondie des besoins commerciaux, aboutissant à des solutions concrètes et impactantes pour l'entreprise.
 
-### Projet de Machine Learning
-- **Titre :** Classification des commentaires en ligne
-- **Description :** Création d'un modèle de classification des commentaires en ligne en fonction de leur tonalité (positif, négatif, neutre) en utilisant des techniques avancées de traitement du langage naturel.
+- **Titre :** Classification automatique des bien consommation
+- **Description :** En tant que Data Scientist chez "Place de marché", j'ai dirigé un projet visant à automatiser la classification des articles sur la plateforme e-commerce. En utilisant des techniques d'analyse de données avancées, nous avons démontré avec succès la faisabilité de regrouper automatiquement des produits de même catégorie, améliorant ainsi l'efficacité de la plateforme et l'expérience utilisateur.
 
-### Projet de Visualisation de Données
-- **Titre :** Dashboard interactif pour la surveillance de la performance des ventes
-- **Description :** Conception et développement d'un dashboard interactif permettant aux utilisateurs de suivre en temps réel les performances de vente de l'entreprise à travers différentes métriques clés.
+- **Titre :** Développement d'un Outil de Scoring Crédit pour "Prêt à Dépenser" 
+- **Description :** En qualité de Data Scientist chez "Prêt à Dépenser", j'ai dirigé un projet crucial visant à mettre en place un outil de "scoring crédit" pour évaluer la probabilité de remboursement des clients. Notre objectif était de développer un algorithme de classification en utilisant diverses sources de données, telles que les comportements des clients et les données provenant d'autres institutions financières.
 
-### Projet d'Analyse Statistique
-- **Titre :** Analyse de la relation entre la météo et la consommation d'énergie
-- **Description :** Analyse statistique de la corrélation entre les données météorologiques et la consommation d'énergie pour identifier des tendances et des modèles saisonniers.
+En réponse à une demande croissante de transparence de la part des clients, nous avons également créé un dashboard interactif. Ce dashboard permet aux chargés de relation client d'expliquer de manière transparente les décisions d'octroi de crédit tout en offrant aux clients la possibilité d'accéder facilement à leurs informations personnelles.
 
-### Projet d'Apprentissage Automatique
-- **Titre :** Système de recommandation de produits
-- **Description :** Développement d'un système de recommandation de produits basé sur les préférences et le comportement d'achat des utilisateurs, en utilisant des algorithmes de filtrage collaboratif et de clustering.
+La mise en œuvre du modèle de scoring et du dashboard interactif a permis d'améliorer la connaissance client des chargés de relation client et de répondre aux attentes des clients en matière de transparence.
+
+- **Titre :** Déployez un mdèle dans le cloud 
+- **Description :** En tant que Data Scientist chez "Fruits!", une start-up spécialisée dans l'AgriTech, j'ai dirigé un projet visant à développer une application mobile innovante. Cette application permet aux utilisateurs de prendre en photo un fruit pour obtenir des informations détaillées sur celui-ci.
+
+L'objectif principal de l'application est de sensibiliser le grand public à la biodiversité des fruits tout en lançant une première version du moteur de classification d'images de fruits. De plus, le développement de l'application a permis de construire une première version de l'architecture Big Data nécessaire pour la manipulation et le traitement des données.
+
+Mon rôle consistait à m'approprier les travaux précédents réalisés par un alternant et à compléter la chaîne de traitement des données. L'accent était mis sur la mise en place des premières briques de traitement, en vue d'une future mise à l'échelle en termes de volume de données.
 
