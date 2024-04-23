@@ -75,17 +75,17 @@ Data Scientist avec une formation en mathématiques et statistiques, je me spéc
 
 ## Projets
 
-### Segmentez des données d'un site e-commerce (OpenClassrooms)
-- **Titre :** Segmentez les clients d'un site e-commerce
-- **Description :** [Description détaillée du projet.]
-- **Notebook Jupyter :** [Lien vers le notebook Jupyter](URL_du_notebook)
-
 ### Développement d'un Outil de Scoring Crédit pour "Prêt à Dépenser"
 - **Titre :** Développement d'un Outil de Scoring Crédit
 - **Description :** En qualité de Data Scientist chez "Prêt à Dépenser", j'ai dirigé un projet crucial visant à mettre en place un outil de "scoring crédit" pour évaluer la probabilité de remboursement des clients. Notre objectif était de développer un algorithme de classification en utilisant diverses sources de données, telles que les comportements des clients et les données provenant d'autres institutions financières. En réponse à une demande croissante de transparence de la part des clients, nous avons également créé un dashboard interactif. Ce dashboard permet aux chargés de relation client d'expliquer de manière transparente les décisions d'octroi de crédit tout en offrant aux clients la possibilité d'accéder facilement à leurs informations personnelles.
 - **Notebook Jupyter Analyse exploratoire :** [EDA](https://github.com/Abdoullatuf/Portfolio/blob/main/Notebook1_P7_Exploration_Abdoullatuf_Maoulida_02_2023.ipynb)
 - **Notebook Jupyter Implémentation du Modèle :** [Modélisation](https://github.com/Abdoullatuf/Portfolio/blob/main/Notebook2_P7_Modelisation_Abdoullatuf_Maoulida.ipynb)
 - **Lien du Dashboard :** [Dashboard interactif](https://streamlit-app-p7.onrender.com/)
+
+### Segmentez des données d'un site e-commerce (OpenClassrooms)
+- **Titre :** Segmentez les clients d'un site e-commerce
+- **Description :** [Description détaillée du projet.]
+- **Notebook Jupyter :** [Lien vers le notebook Jupyter](URL_du_notebook)
 
 ## Contact
 
