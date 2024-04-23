@@ -82,7 +82,7 @@ Data Scientist avec une formation en mathématiques et statistiques, je me spéc
 - **Notebook Jupyter Implémentation du Modèle :** [Modélisation](https://github.com/Abdoullatuf/Portfolio/blob/main/Notebook2_P7_Modelisation_Abdoullatuf_Maoulida.ipynb)
 - **Lien du Dashboard :** [Dashboard interactif](https://streamlit-app-p7.onrender.com/)
 
-### Segmentez des données d'un site e-commerce (OpenClassrooms)
+### Segmentez des données d'un site e-commerce
 - **Titre :** Segmentez les clients d'un site e-commerce
 - **Description :** [Description détaillée du projet.]
 - **Notebook Jupyter :** [Lien vers le notebook Jupyter](URL_du_notebook)
