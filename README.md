@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Data Scientist et enseignant en 
 
 ## À propos de moi
 
-Data Scientist avec une formation en mathématiques et statistiques, je me spécialise dans l'analyse de données complexes et la modélisation prédictive. Mon objectif professionnel est de contribuer à des projets innovants en intelligence artificielle pour résoudre des problèmes réels.
+Data Scientist avec une formation en mathématiques et statistiques, je me spécialise dans l'analyse de données complexes et la modélisation prédictive. Mon objectif professionnel est de me spécialiser en ingénieur en intelligence articielle et contribuer à des projets innovants pour résoudre des problèmes réels.
 
 ## Expériences
 
