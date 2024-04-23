@@ -82,7 +82,7 @@ Data Scientist avec une formation en mathématiques et statistiques, je me spéc
 
 ### Développement d'un Outil de Scoring Crédit pour "Prêt à Dépenser"
 - **Titre :** Développement d'un Outil de Scoring Crédit
-- **Description :** [Description détaillée du projet.]
+- **Description :** En qualité de Data Scientist chez "Prêt à Dépenser", j'ai dirigé un projet crucial visant à mettre en place un outil de "scoring crédit" pour évaluer la probabilité de remboursement des clients. Notre objectif était de développer un algorithme de classification en utilisant diverses sources de données, telles que les comportements des clients et les données provenant d'autres institutions financières. En réponse à une demande croissante de transparence de la part des clients, nous avons également créé un dashboard interactif. Ce dashboard permet aux chargés de relation client d'expliquer de manière transparente les décisions d'octroi de crédit tout en offrant aux clients la possibilité d'accéder facilement à leurs informations personnelles.
 - **Notebook Jupyter :** [Lien vers le notebook Jupyter](URL_du_notebook)
 
 ## Contact
