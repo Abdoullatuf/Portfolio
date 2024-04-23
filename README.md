@@ -85,7 +85,7 @@ Data Scientist avec une formation en mathématiques et statistiques, je me spéc
 ### Segmentez des données d'un site e-commerce
 - **Titre :** Segmentez les clients d'un site e-commerce
 - **Description :** [Description détaillée du projet.]
-- **Notebook Jupyter :** [Notebook analyse exploratoire](https://github.com/Abdoullatuf/Portfolio/blob/main/Abdoullatuf_Maoulida_1_notebook_simulation_082022.ipynb)
+- **Notebook Jupyter :** [Notebook analyse exploratoire](https://github.com/Abdoullatuf/Portfolio/blob/main/Abdoullatuf_Maoulida_1_notebook_exploration_082022.ipynb)
 - **Notebook Jupyter :** [Notebook simulation](https://github.com/Abdoullatuf/Portfolio/blob/main/Abdoullatuf_Maoulida_3_notebook_simulation_082022.ipynb)
 - 
 
