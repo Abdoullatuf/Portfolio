@@ -1,6 +1,6 @@
 # Expériences Professionnelles
 
-## Data Scientist chez OpenClassrooms
+## Data Scientist à OpenClassrooms
 **Période :** 09/2022 - 01/2024  
 **Lieu :** Paris, France  
 **Type :** Formation  
