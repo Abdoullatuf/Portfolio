@@ -87,7 +87,7 @@ Data Scientist avec une formation en mathématiques et statistiques, je me spéc
 - **Description :** En tant que consultant pour Olist, j'ai dirigé un projet visant à segmenter les clients pour améliorer les stratégies de communication et de marketing de l'entreprise. Mon rôle consistait à analyser en profondeur les données fournies par Olist, comprenant l'historique des commandes, les interactions clients, les produits achetés et les commentaires de satisfaction. À l'aide de méthodes d'analyse non supervisées, j'ai identifié différents types d'utilisateurs en regroupant ceux partageant des comportements et des caractéristiques similaires.
 - **Notebook Jupyter :** [Notebook analyse exploratoire](https://github.com/Abdoullatuf/Portfolio/blob/main/Abdoullatuf_Maoulida_1_notebook_exploration_082022.ipynb)
 - **Notebook Jupyter :** [Notebook simulation](https://github.com/Abdoullatuf/Portfolio/blob/main/Abdoullatuf_Maoulida_3_notebook_simulation_082022.ipynb)
-- 
+  
 
 ## Contact
 
