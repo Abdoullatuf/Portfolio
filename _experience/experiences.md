@@ -4,7 +4,7 @@
 **Période :** 09/2022 - 01/2024  
 **Lieu :** Paris, France  
 **Type :** Formation  
-**Responsabilités :**
+**Compétences dévéloppées dans cette formation :**
 - Définition de la stratégie d'élaboration d'un modèle d'apprentissage.
 - Nettoyage et préparation des données.
 - Utilisation de Git pour le suivi des modifications.
