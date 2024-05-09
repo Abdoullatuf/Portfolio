@@ -1,3 +1,9 @@
+---
+layout: default
+title: Expériences Professionnelles
+permalink: /formation/
+---
+
 # Formations
 
 ## RNCP 7, Ingénieur en IA
