@@ -1,3 +1,9 @@
+---
+layout: default
+title: Expériences Professionnelles
+permalink: /projet/
+---
+
 # Projets
 
 ## Développement d'un Outil de Scoring Crédit pour "Prêt à Dépenser"
