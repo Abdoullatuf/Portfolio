@@ -1,3 +1,9 @@
+---
+layout: default
+title: Expériences Professionnelles
+permalink: /experience/
+---
+
 # Expériences Professionnelles
 
 ## Data Scientist à OpenClassrooms
