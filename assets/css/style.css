@@ -162,3 +162,23 @@ footer p {
     font-size: 0.8rem;
   }
 }
+
+/* Styles spécifiques pour les classes */
+.profile-pic {
+  width: 100%; /* prendra la pleine largeur de son conteneur */
+  max-width: 200px; /* largeur maximale de l'image */
+  height: auto; /* pour maintenir le ratio */
+}
+
+/* Médias Queries */
+@media (max-width: 768px) {
+  .profile-pic {
+    max-width: 150px; /* taille plus petite sur les écrans de tablettes */
+  }
+}
+
+@media (max-width: 480px) {
+  .profile-pic {
+    max-width: 100px; /* taille encore plus petite sur les écrans de téléphones */
+  }
+}
