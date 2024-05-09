@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expériences Professionnelles
+title: Formations
 permalink: /formation/
 ---
 
