@@ -3,13 +3,14 @@ layout: default
 title: Accueil - Portfolio d'Abdoullatuf Maoulida
 ---
 
-# Bienvenue sur mon Portfolio
+# Bienvenue sur mon Portfolio!
+## À propos de moi
 
 ![Abdoullatuf Maoulida](/assets/img/img_cv_abdoullatuf.jpg)
 
 ## Qui suis-je ?
 
-Je suis **Abdoullatuf Maoulida**, Data Scientist passionné et enseignant en mathématiques. Mon expertise s'étend de l'analyse de données à l'intelligence artificielle, avec une spécialisation dans la modélisation prédictive et les statistiques.
+Je suis **Abdoullatuf Maoulida**, Data Scientist passionné et enseignant en mathématiques. Avec une formation en mathématiques et statistiques, je me spécialise dans l'analyse de données complexes et la modélisation prédictive. Mon objectif professionnel est de me spécialiser en ingénieur en intelligence articielle et contribuer à des projets innovants pour résoudre des problèmes réels.
 
 ### Que trouverez-vous ici ?
 
