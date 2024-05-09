@@ -1,3 +1,9 @@
+---
+layout: default
+title: Compétences Techniques
+permalink: /competence/
+---
+
 # Compétences Techniques
 
 - **Langages de programmation :** Python, R
