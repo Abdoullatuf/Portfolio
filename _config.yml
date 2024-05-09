@@ -1,12 +1,12 @@
 collections:
   experience:
     output: true
-    permalink: /experience/:path/
+    permalink: /experience/:_experience/experiences.md/
   education:
     output: true
-    permalink: /education/:path/
+    permalink: /education/:_formation/formations.md/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/:_projet/projets.md
 
 
