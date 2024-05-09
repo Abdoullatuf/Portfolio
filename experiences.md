@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Expériences Professionnelles
-permalink: /experience/
 ---
 
 # Expériences Professionnelles
