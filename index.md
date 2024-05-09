@@ -5,8 +5,7 @@ title: Accueil - Portfolio d'Abdoullatuf Maoulida
 
 # Bienvenue sur mon Portfolio!
 ## À propos de moi
-
-![Abdoullatuf Maoulida](/assets/img/img_cv_abdoullatuf.jpg)
+![Abdoullatuf Maoulida](/assets/img/img_cv_abdoullatuf.jpg){:class="profile-pic"}
 
 ## Qui suis-je ?
 
