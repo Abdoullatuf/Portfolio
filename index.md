@@ -15,10 +15,10 @@ Je suis **Abdoullatuf Maoulida**, Data Scientist passionné et enseignant en mat
 
 Ce portfolio est le reflet de mon parcours professionnel et académique. Vous pourrez y découvrir :
 
-- [Mon Expérience Professionnelle](/experience)
-- [Mes Formations](/education)
-- [Mes Compétences Techniques](/competences)
-- [Mes Projets](/projects)
+- [Mon Expérience Professionnelle](/experiences.html)
+- [Mes Formations](/formations.html)
+- [Mes Compétences Techniques](/competences.html)
+- [Mes Projets](/projects.html)
 
 ## À propos de moi
 
