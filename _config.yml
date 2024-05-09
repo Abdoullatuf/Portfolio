@@ -7,6 +7,6 @@ collections:
     permalink: /education/:_formation/formations.md/
   projects:
     output: true
-    permalink: /projects/:_projet/projets.md
+    permalink: /projects/:_projet/projets.md/
 
 
